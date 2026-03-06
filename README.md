@@ -302,8 +302,8 @@ This project demonstrates:
 
 **Juanito M. Ramos II**
 
-GitHub: https://github.com/Juaaanits
-Project Link: https://roadmap.sh/projects/ssh-remote-server-setup
+1. GitHub: https://github.com/Juaaanits
+2. Project Link: https://roadmap.sh/projects/ssh-remote-server-setup
 
 ---
 
