@@ -280,21 +280,8 @@ Unban IP:
 sudo fail2ban-client set sshd unbanip <IP_ADDRESS>
 ```
 
----
 
-# 🌐 Network Architecture
 
-Example structure:
-
-```
-Client Device
-     │
-     │ SSH (Port 2222)
-     │
-Router (Port Forwarding)
-     │
-Ubuntu Server (OpenSSH + Fail2Ban)
-```
 
 ---
 
