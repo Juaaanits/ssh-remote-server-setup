@@ -47,7 +47,10 @@ Before starting, ensure you have:
    - Router port forwarding configured (if external access is needed)
 
 ---
+#  🏗️ Network Architecture
 
+![Architecture Diagram](network-architecture.png)
+---
 # 🚀 Setup Steps
 
 ## 1️⃣ Install OpenSSH Server
