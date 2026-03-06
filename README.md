@@ -50,6 +50,7 @@ Before starting, ensure you have:
 #  🏗️ Network Architecture
 
 ![Architecture Diagram](network-architecture.png)
+
 ---
 # 🚀 Setup Steps
 
